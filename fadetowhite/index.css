@@ -1,0 +1,8 @@
+.square {
+	position: absolute;
+	padding: 10px;
+	height: 500px;
+	width: 500px;
+	border-style: solid;
+	border-color: transparent;
+}
